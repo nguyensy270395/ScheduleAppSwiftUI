@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ScheduleAppSwiftUI_ScheduleAppSwiftUIUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ScheduleAppSwiftUI_ScheduleAppSwiftUIUITests
+@end

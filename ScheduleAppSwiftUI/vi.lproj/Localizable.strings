@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ScheduleAppSwiftUI
+
+  Created by Nguyễn Thanh Sỹ on 22/04/2022.
+  
+*/
+"Welcome" = "TKB KMA";
+"SignIn" = "Đăng nhập";
+"SignUp" = "Đăng ký";
+"Username" = "Tài khoản";
+"Password" = "Mật khẩu";
+"Comment" = "Bạn chưa có tài khoản?";
+"RegisterNow" = "Đăng ký ngay";

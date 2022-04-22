@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ScheduleAppSwiftUI
+
+  Created by Nguyễn Thanh Sỹ on 22/04/2022.
+  
+*/
+"Welcome" = "KMA Schedule";
+"SignIn" = "Sign in";
+"SignUp" = "Sign up";
+"Username" = "Username";
+"Password" = "Password";
+"Comment" = "Don't have an account?";
+"RegisterNow" = "Register Now";
